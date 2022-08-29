@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">A passionate fullstack developer from Dallas, TX</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgreenlee24&label=Profile%20views&color=0e75b6&style=flat" alt="jgreenlee24" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jgreenlee24" alt="jgreenlee24" /></a> </p>
 
 - 🔭 I’m currently working at [LTK](https://company.shopltk.com/en/company)
